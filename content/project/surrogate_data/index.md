@@ -23,6 +23,6 @@ fidelity.
 Such a framework is generic and can be used to generate surrogate data for other
 non-stationary processes, such as ocean waves or pollutant dispersion.
 
-A preprint of a paper outline the approach is available through [arXiv](http://arxiv.org/abs/2003.07218).
+A preprint of a paper outlining the approach is available through [arXiv](http://arxiv.org/abs/2003.07218).
 
 ---
