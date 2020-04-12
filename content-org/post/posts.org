@@ -1,0 +1,121 @@
+#+HUGO_FRONT_MATTER_FORMAT: toml
+#+hugo_base_dir: ../../
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+
+
+* Posts 
+** Breathney: A modular design toolbox for an affordable ventilator with full functionality  :fablab:covid:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./post/fablab
+:EXPORT_FILE_NAME: index 
+:EXPORT_DATE: 2020-04-10
+:END:
+
+The Covid-19 pandemic is still progressing globally and a small but significant
+fraction of patients need mechanical ventilation at some point. Although some
+countries have sufficient ventilators, there are indications of a future global
+shortage of such devices. Medtronic released documents for their ventilator,
+showing a global urgent need. Rapidly prototyped, industrially manufactured
+ventilators can help alleviate this shortage. 
+
+With crucial support from UZ Brussels , Flanders Make, Audi and other partners,
+a team of 40 students, alumni, staff and external experts
+at the Fablab Brussels have recently designed and prototyped
+a ventilator 
+that has been produced industrially and is currently being tested extensively. 
+
+We intend to contribute to the
+world-wide ventilator effort in the following way: 
+- Perform the scientific experiments to investigate and iteratively increase the
+  level of compliance with published requirements (e.g.
+  https://tinyurl.com/wfqtk4w)  
+- Demonstrate that a fully functional ventilator can be mass-produced (>100
+  units daily for a mid-sized facility in e.g.\nbsp{}automotive sector) with
+  minimal pressure on the medical supply chain, by maximally sourcing components
+  from non-medical sectors, at a well-documented unit cost that is affordable
+  compared to conventional ventilators (without being low-cost per se)  
+- Make available a toolbox for all aspects of ventilator system (mechanical,
+  electrical, sensors, control, interface). The different aspects are designed
+  in a modular manner so that e.g.\nbsp{}the control unit can be used with both
+  pump-based and pneumatic approaches 
+- Make the design open-source. Share the design and documentation. Assist other
+  groups worldwide in adapting design and setting up local production 
+
+Learn more at [[http://breathney.vub.be][the project's website]].
+
+---
+
+** TODO Experimental validation of the power enhancement of a pair of vertical-axis wind turbines :fablab:VAWT:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./publication/vawt_enhancement
+:EXPORT_FILE_NAME: index 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :authors '("Antoine Vergaerde" "Tim De Troyer" "Lieven Standaert" "Joanna Kluczewska-Bordier" "Denis Pitance" "Alexandre Immas" "Frédéric Silvert""Mark C. Runacres")
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featured true :doi "10.1016/j.renene.2019.06.115"
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :publication "Renewable Energy, 146, 181-187 (2020)"
+:EXPORT_DATE: 2020-04-10
+:END:
+
+Wind tunnel tests have been performed of individual and paired H-type Darrieus
+vertical-axis wind turbines. The turbines in the paired configuration are
+closely spaced, at 1.2 and 1.3 rotor diameters shaft to shaft, and are
+counter-rotating. 
+
+#+hugo: more
+
+Two directions of rotation were studied, one where the facing
+(inner) blades move along with the incoming flow, and one where the facing
+blades move against the wind. The wind tunnel tests confirm a net increase in
+the power coefficient of the paired configuration compared with twice the power
+coefficient of the individual turbine. We found average relative increases in
+the power coefficients between 13% and 16%, which is consistent with numerical
+studies available in the literature. 
+
+
+
+---
+
+** TODO Feasibility and performance assessment of small and medium-sized wind turbines :fablab:VAWT:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./publication/smwt_jochem
+:EXPORT_FILE_NAME: index 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :authors '("Jochem Vermeir")
+:EXPORT_DATE: 2015-04-10
+:END:
+
+There is considerable uncertainty about the role that small and medium wind
+turbines may play in the production of sustainable electricity. In the present
+work, we identify the main factors affecting the economic viability of small and
+medium wind turbines (herafter SMWTs). We then propose a framework for more
+efficient and reliable predictions of the annual energy production of SMWTs. 
+
+#+hugo: more
+
+We
+demonstrate that these turbines are indeed profitable, provided that an
+appropriate turbine is selected and that the annual energy production is
+estimated carefully. These seemingly simple tasks are non-trivial and current
+practices too often lead to unreliable assessments. 
+
+We first assemble a database of wind turbines with a rated power up to 100 kW.
+Such a database is a necessary tool when assessing the feasibility of a project
+involving SMWTs, since the market is very immature, with a wide variation in
+quality between different turbines. 
+
+We then calculate the annual energy production (AEP) for a number of measurement
+sites in Belgium and The Netherlands and for different independently-tested
+SMWTs. Based on these data and on first principles, we show what the best
+methods are to select an appropriate turbine and what the expected accuracy is
+of the AEP estimate.  
+We have found that a particular statistical error has been overlooked in the
+current methods to estimate the annual energy production. This error is the
+possible mismatch of the averaging times with which wind speeds and turbine
+power outputs are sampled. Using wind speed and power measurements, we show how
+this error can be minimised. 
+
+Our findings have an immediate practical importance. We therefore apply our
+methods in a number of case studies, and give recommendations for future SMWT
+projects. 
+
+---

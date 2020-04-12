@@ -1,0 +1,72 @@
+#+HUGO_FRONT_MATTER_FORMAT: yaml
+#+hugo_base_dir: ../../../
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+
+#+author: Mark Runacres 
+
+
+* Research projects 
+** High-fidelity surrogate wind data                                   :data:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./project/surrogate_data
+:EXPORT_FILE_NAME: index 
+:EXPORT_DATE: 2020-04-10
+:END:
+The objective of this project is to create a modelling framework for
+high-fidelity surrogate wind data. This work is largely the PhD project of
+Daniele D'Ambrosio whom I supervise with prof.\nbsp{}[[https://flow.research.vub.be/en/tim-de-troyer][Tim De Troyer]].
+
+<!--more-->
+
+The increasing sophistication of wind turbine design and control generates a need for high-quality data. Therefore, the relatively limited set of measured wind data needs to be extended with computer-generated surrogate data, e.g. to make reliable statistical studies of energy production and mechanical loads. Surrogate data should realistically reflect the full scale of possible wind conditions. First, the surrogate data should conform to the same statistical descriptors as measured physical data (in particular the amplitude distribution and the frequency spectrum). There are methods that can handle this. A far bigger challenge is non-stationarity, reflected by the variation of wind conditions on distinct temporal scales (such as daily or seasonal variations). No existing method can fully capture this non-stationarity. Furthermore, wind data are three-dimensional, in the sense that information about the wind direction is as important as information about the wind speed.
+In this application, we outline a unified mathematical framework to tackle the
+twin challenges of non-stationarity and three- dimensionality. The framework
+allows to generate non-stationary, three-dimensional wind time series with high
+fidelity.
+
+Such a framework is generic and can be used to generate surrogate data for other
+non-stationary processes, such as ocean waves or pollutant dispersion. 
+
+A preprint of a paper outline the approach is available through [[http://arxiv.org/abs/2003.07218][arXiv]].
+
+---
+
+** Interaction of closely-spaced vertical-axis wind turbines :VAWT:fablab:wind:
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./project/vawt
+:EXPORT_FILE_NAME: index 
+:EXPORT_DATE: 2020-04-10
+:END:
+Vertical-axis wind turbines, when placed close together, have an improved power
+production and very interesting aerodynamics. The experimental side of this
+project is the PhD project of Antoine Vergaerde. The computational side of the
+project is taken care of by Greeshma Boohalli Shivamallegowda. 
+Both Antoine and Greeshma are supervised by 
+[[https://flow.research.vub.be/en/tim-de-troyer][Tim De Troyer]] and myself. 
+
+#+hugo: more
+
+Although the viability of vertical-axis wind turbines for the production of
+electricity is still open for debate, they may have certain niche applications,
+and definitely have very interesting aerodynamics.
+
+We built our own set of scales models, shown above during a wind tunnel test run
+at PoliMi in Italy. 
+
+** Distributed wind energy and small wind turbines. 
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./project/distributed_wind
+:EXPORT_FILE_NAME: index 
+:EXPORT_DATE: 2020-04-10
+:END:
+I have been working on distributed wind energy since 2007. Jochem Vermeir's PhD
+thesis summarises a lot of the work that we did back then. 
+I was involved in IEA Wind Task 27 on Small wind turbines in strongly turbulent
+environments and am currently involved in IEA Wind Task 41 on distributed wind. 
+I am also a member of the Small Wind Technical Committee of the European Academy
+for Wind Energy. Quentin Deltenre is close to finishing his PhD thesis on 
+/Sustainable retrofitting of high-rise rooftops/ in which rooftop-mounted small
+wind turbines play a role. 
+

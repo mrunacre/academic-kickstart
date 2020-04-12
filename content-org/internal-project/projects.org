@@ -1,0 +1,17 @@
+#+HUGO_FRONT_MATTER_FORMAT: yaml
+#+hugo_base_dir: ../../
+#+hugo_section: ./project/internal-project-org/
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+
+#+author: Mark Runacres 
+
+
+* Data-driven modelling
+** PRFT
+:PROPERTIES:
+:EXPORT_FILE_NAME: prft 
+:EXPORT_DATE: 2020-04-10
+:END:
+This is just some text
