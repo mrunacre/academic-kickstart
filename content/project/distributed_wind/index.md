@@ -2,7 +2,7 @@
 title: "Distributed wind energy and small wind turbines."
 author: ["Mark Runacres"]
 date: 2020-04-10
-lastmod: 2020-04-12T16:37:30+02:00
+lastmod: 2020-04-12T17:15:13+02:00
 draft: false
 weight: 2003
 ---

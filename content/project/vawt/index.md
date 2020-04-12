@@ -2,8 +2,8 @@
 title: "Interaction of closely-spaced vertical-axis wind turbines"
 author: ["Mark Runacres"]
 date: 2020-04-10
-lastmod: 2020-04-11T16:57:19+02:00
-tags: ["VAWT", "fablab"]
+lastmod: 2020-04-12T17:15:10+02:00
+tags: ["VAWT", "fablab", "wind"]
 draft: false
 weight: 2002
 ---

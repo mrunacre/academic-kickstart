@@ -2,7 +2,7 @@
 title: "High-fidelity surrogate wind data"
 author: ["Mark Runacres"]
 date: 2020-04-10
-lastmod: 2020-04-11T16:50:34+02:00
+lastmod: 2020-04-12T17:15:05+02:00
 tags: ["data"]
 draft: false
 weight: 2001
@@ -23,6 +23,6 @@ fidelity.
 Such a framework is generic and can be used to generate surrogate data for other
 non-stationary processes, such as ocean waves or pollutant dispersion.
 
-A preprint of a paper outlining the approach is available through [arXiv](http://arxiv.org/abs/2003.07218).
+A preprint of a paper outline the approach is available through [arXiv](http://arxiv.org/abs/2003.07218).
 
 ---
