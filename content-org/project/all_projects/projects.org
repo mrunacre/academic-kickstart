@@ -64,7 +64,8 @@ at PoliMi in Italy.
 I have been working on distributed wind energy since 2007. Jochem Vermeir's PhD
 thesis summarises a lot of the work that we did back then. 
 I was involved in IEA Wind Task 27 on Small wind turbines in strongly turbulent
-environments and am currently involved in IEA Wind Task 41 on distributed wind. 
+environments and am currently involved in 
+[[https://community.ieawind.org/task41/home][IEA Wind Task 41]] on distributed wind. 
 I am also a member of the Small Wind Technical Committee of the European Academy
 for Wind Energy. Quentin Deltenre is close to finishing his PhD thesis on 
 /Sustainable retrofitting of high-rise rooftops/ in which rooftop-mounted small
