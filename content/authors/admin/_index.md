@@ -21,7 +21,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include unsteady fluid dynamics, wind energy and models (physical and data-driven)of fluid systems
+bio: My research interests include unsteady fluid dynamics, wind energy and models (physical and data-driven) of fluid systems
 
 interests:
 - Unsteady fluid dynamics
